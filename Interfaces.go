@@ -45,3 +45,14 @@ func main() {
 	letstry(p2)
 	letstry(p2.name)
 }
+
+/*
+output
+my name is  ram shyam
+Bikesh shrestha true
+my name is  Bikesh shrestha
+my name is  ram shyam
+Bikesh shrestha true
+my name is  Bikesh shrestha
+
+*/
