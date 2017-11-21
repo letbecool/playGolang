@@ -39,3 +39,11 @@ func main() {
 	p1.check()
 	p2.check()
 }
+
+/*
+OUTPUT
+my name is  ram shyam
+Bikesh shrestha true
+
+
+*/
