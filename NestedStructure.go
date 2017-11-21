@@ -38,12 +38,15 @@ func main() {
 	}
 	p1.check()
 	p2.check()
+//in talking minimum , if we want to call only the name which belongs to agent 
+	p2.name.check()
 }
 
 /*
 OUTPUT
 my name is  ram shyam
 Bikesh shrestha true
+my name is  Bikesh shrestha
 
 
 */
