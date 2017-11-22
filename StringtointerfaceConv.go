@@ -12,7 +12,9 @@ func Display(vals []interface{}) {
 
 func main() {
     names := []string{"Gopal", "Mohan", "Bikesh"}
-   vals := make([]interface{}, len(names))
+ 
+//conversion of string to interface type 
+  vals := make([]interface{}, len(names))
     for i, v := range names {
         vals[i] = v
     }
